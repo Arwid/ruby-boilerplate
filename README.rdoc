@@ -1,0 +1,11 @@
+= Site Template
+
+author:: Arwid Bancewicz http://arwid.ca
+version:: 0.1
+updated:: 16 Mar 2011
+
+This is a Ruby on Rails site template using Html5boilerplate, jquery.Page, PIE.htc, and JAMMIT.
+
+= License
+
+Site Template is covered by the MIT License.
