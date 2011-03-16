@@ -4,7 +4,43 @@ author:: Arwid Bancewicz http://arwid.ca
 version:: 0.1
 updated:: 16 Mar 2011
 
-This is a Ruby on Rails site template using Html5boilerplate[http://github.com/paulirish/html5-boilerplate], jquery.Page[http://github.com/Arwid/jQuery.Page], PIE.htc[http://github.com/lojjic/PIE], and Jammit[http://github.com/documentcloud/jammit]. It can be viewed here: http://sitetemplate.heroku.com. The goal is to create a site template that uses best practices, degrades well with browsers, and optimizes with ease.
+This is a Ruby on Rails site template using Html5boilerplate[http://github.com/paulirish/html5-boilerplate], jquery.Page[http://github.com/Arwid/jQuery.Page], PIE.htc[http://github.com/lojjic/PIE], Jammit[http://github.com/documentcloud/jammit], and Humans.txt[http://humanstxt.org/]. It can be viewed here: http://sitetemplate.heroku.com. The goal is to create a site template that uses best practices, degrades well with browsers, and optimizes with ease so you can get your project off the ground quickly and right-footed.
+
+= Details
+
+HTML5Boilerplate[http://github.com/paulirish/html5-boilerplate is used as the HTML/CSS/JS base for a fast, robust and future-proof site. It's HTML is poured into app/views/layouts/application.html.erb and CSS into public/stylesheets/base.css. Instead of using HTML5Boilerplate's[http://github.com/paulirish/html5-boilerplate ant script for asset compression, Jammit[http://github.com/documentcloud/jammit] is used instead which fits in very nicely. jQuery.Page[http://github.com/Arwid/jQuery.Page] is used to make it very easy to add per-page Javascript.
+
+Here is the core structure (excluding error pages):
+* public/
+  * apple-touch-icon.jpg
+  * favicon.ico
+  * humans.txt
+  * PIE.htc
+  * robots.txt
+  * assets/
+  * images/
+    * embed/
+  * stylesheets/
+    * base.css
+    * handheld.css
+    * mylibs/
+    * views/
+      * layouts/
+        * _footer.css
+        * _header.css
+        * application.css
+      * page/
+        * home.css
+      * shared/
+  * javascripts/
+    * application.js
+    * libs/
+      * jquery-1.4.2.min.js
+      * modernizr-1.6.min.js
+      * dd_belatedpng.min.js
+    * mylibs/
+      * jquery.Page.js
+    * profiling/
 
 = License
 
