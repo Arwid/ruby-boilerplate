@@ -4,7 +4,7 @@ author:: Arwid Bancewicz http://arwid.ca
 version:: 0.1
 updated:: 16 Mar 2011
 
-This is a Ruby on Rails site template using Html5boilerplate, jquery.Page, PIE.htc, and JAMMIT.
+This is a Ruby on Rails site template using Html5boilerplate[http://github.com/paulirish/html5-boilerplate], jquery.Page[http://github.com/Arwid/jQuery.Page], PIE.htc[http://github.com/lojjic/PIE], and Jammit[http://github.com/documentcloud/jammit]. It can be viewed here: http://sitetemplate.heroku.com. The goal is to create a site template that uses best practices, degrades well with browsers, and optimizes with ease.
 
 = License
 
