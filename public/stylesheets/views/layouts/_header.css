@@ -1,0 +1,13 @@
+
+
+/* Header
+----------------------------------*/
+header {
+	background: white;
+}
+header nav  {
+}
+header nav ul li {
+    float: left;
+	margin: 0 40px;
+}

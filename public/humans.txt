@@ -1,0 +1,18 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developer: 
+  Site: 
+  Twitter:
+
+/* THANKS */
+
+/* SITE */
+  Last update: 
+  Language: 
+  Doctype: 
+  Tools: 
+  Components:
+  IDE:

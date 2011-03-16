@@ -1,2 +1,19 @@
-// Place your application-specific JavaScript functions and classes here
-// This file is automatically included by javascript_include_tag :defaults
+/*!
+ * JS per page
+ *----------------------------------*/
+(function($){
+
+	$.Page.init({
+        "page_home" : function() {
+			// put code here
+        },
+        "page_about" : function() {
+			// put code here
+        },
+	    "page_contact" : function() {
+			// put code here
+	    }
+    });
+
+	$.Page.start();
+})(jQuery);

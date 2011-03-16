@@ -1,0 +1,16 @@
+embed_assets: on
+
+javascripts:
+  application:
+    - public/javascripts/mylibs/*.js
+    - public/javascripts/application.js
+
+stylesheets:
+  common:
+  application:
+    - public/stylesheets/base.css
+    - public/stylesheets/mylibs/*.css
+    - public/stylesheets/views/shared/*.css
+    - public/stylesheets/views/layouts/*.css
+    - public/stylesheets/views/pages/*.css
+  empty:
