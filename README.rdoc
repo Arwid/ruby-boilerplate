@@ -2,6 +2,7 @@
 
 author:: Arwid Bancewicz http://arwid.ca
 version:: 0.1
+languages:: Ruby on Rails, HTML, CSS, Javascript
 updated:: 16 Mar 2011
 
 This is a Ruby on Rails site template using Html5boilerplate[http://github.com/paulirish/html5-boilerplate], jquery.Page[http://github.com/Arwid/jQuery.Page], PIE.htc[http://github.com/lojjic/PIE], Jammit[http://github.com/documentcloud/jammit], and Humans.txt[http://humanstxt.org/]. It can be viewed here: http://sitetemplate.heroku.com. The goal is to create a site template that uses best practices, degrades well with browsers, and optimizes with ease so you can get your project off the ground quickly and right-footed.
