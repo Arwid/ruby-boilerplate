@@ -7,6 +7,21 @@ updated:: 16 Mar 2011
 
 This is a Ruby on Rails site template using Html5boilerplate[http://github.com/paulirish/html5-boilerplate], jquery.Page[http://github.com/Arwid/jQuery.Page], PIE.htc[http://github.com/lojjic/PIE], Jammit[http://github.com/documentcloud/jammit], and Humans.txt[http://humanstxt.org/]. It can be viewed here: http://sitetemplate.heroku.com. The goal is to create a site template that uses best practices, degrades well with browsers, and optimizes with ease so you can get your project off the ground quickly and right-footed.
 
+= Usage
+
+Start your new website:
+  git clone git@github.com:Arwid/ruby-boilerplate.git <site_name> 
+
+View it in your browser:
+  cd <site_name>
+  rails s -p 3000 -e development
+  // visit http://localhost:3000
+
+= Requirements
+
+* Rails 3.0.5
+* Ruby 1.9.2
+
 = Details
 
 HTML5Boilerplate[http://github.com/paulirish/html5-boilerplate] is used as the HTML/CSS/JS base for a fast, robust and future-proof site. It's HTML is poured into app/views/layouts/application.html.erb and CSS into public/stylesheets/base.css. Instead of using HTML5Boilerplate's[http://github.com/paulirish/html5-boilerplate] ant script for asset compression, Jammit[http://github.com/documentcloud/jammit] is used instead which fits in very nicely. jQuery.Page[http://github.com/Arwid/jQuery.Page] is used to make it very easy to add per-page Javascript.
