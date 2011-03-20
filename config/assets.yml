@@ -12,5 +12,5 @@ stylesheets:
     - public/stylesheets/mylibs/*.css
     - public/stylesheets/views/shared/*.css
     - public/stylesheets/views/layouts/*.css
-    - public/stylesheets/views/pages/*.css
+    - public/stylesheets/views/page/*.css
   empty:
