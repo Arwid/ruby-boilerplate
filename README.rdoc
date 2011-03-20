@@ -1,4 +1,4 @@
-= Site Template
+= ruby-boilerplate
 
 author:: Arwid Bancewicz http://arwid.ca
 version:: 0.1
@@ -60,4 +60,4 @@ Here is the core structure (excluding error pages):
 
 = License
 
-Site Template is covered by the MIT License.
+ruby-boilerplate is covered by the MIT License.
